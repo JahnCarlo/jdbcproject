@@ -1,0 +1,6 @@
+db.username=postgres
+db.password=--------
+db.url=jdbc:postgresql://localhost/recordview
+db.usersequencename=recordview_id_seq
+db.sessionsequencename=recordview_session_log_seq
+db.inventorysequencename=recordview_inventory_seq
